@@ -1,5 +1,5 @@
+
 streamlit
 requests
-faster-whisper
-pyttsx3
+SpeechRecognition
 PyMuPDF
